@@ -26,3 +26,4 @@ user_choice=input("Enter your choice here : ")
 ## How To use ?
 1) Double click on the finance_calculators.py and follow the prompts displayed in the terminal
 2) The output of the program should look like this:
+   ![Final Output](https://github.com/mphalane/finance-calculators-python/blob/master/Output1.png)
